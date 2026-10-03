@@ -14,7 +14,7 @@ export const Features: React.FC = () => {
             Tout ce dont votre e-commerce a besoin pour accélérer
           </h2>
           <p className="font-body-lg text-slate-600">
-            Fini les abonnements à 10 micro-outils incompatibles. MANAG'TUP réunit l'ensemble de votre
+            Fini les abonnements à 10 micro-outils incompatibles. MANAGUP réunit l'ensemble de votre
             chaîne de valeur commerciale et logistique.
           </p>
         </div>
