@@ -46,9 +46,9 @@ export const DashboardShowcase: React.FC = () => {
             <div className="bg-white border-b border-slate-200 px-4 sm:px-6 py-3 flex items-center justify-between flex-wrap gap-2">
               <div className="flex items-center gap-3 sm:gap-4">
                 <span className="font-bold text-slate-900 text-base sm:text-lg tracking-tight">
-                  MANAG<span className="text-[#FB5921]">UP
+                  MANAGUP
                 </span>
-                <span className="h-4 w-[1px] bg-slate-200"></span>
+                
                 <span className="text-xs font-semibold text-slate-500 hidden sm:inline">
                   Espace Ventes &amp; Opérations Multi-sites
                 </span>
