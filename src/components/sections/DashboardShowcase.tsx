@@ -46,7 +46,7 @@ export const DashboardShowcase: React.FC = () => {
             <div className="bg-white border-b border-slate-200 px-4 sm:px-6 py-3 flex items-center justify-between flex-wrap gap-2">
               <div className="flex items-center gap-3 sm:gap-4">
                 <span className="font-bold text-slate-900 text-base sm:text-lg tracking-tight">
-                  MANAG<span className="text-[#FB5921]">'</span>TUP
+                  MANAG<span className="text-[#FB5921]">UP
                 </span>
                 <span className="h-4 w-[1px] bg-slate-200"></span>
                 <span className="text-xs font-semibold text-slate-500 hidden sm:inline">
@@ -149,7 +149,7 @@ export const DashboardShowcase: React.FC = () => {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
                   <div className="bg-white p-3.5 sm:p-4 rounded-xl border border-slate-200 relative overflow-hidden">
                     <span className="text-xs font-semibold text-slate-500">Chiffre d'Affaires Brut</span>
-                    <p className="text-lg sm:text-xl font-extrabold text-[#FB5921] mt-1">+142 850 €</p>
+                    <p className="text-lg sm:text-xl font-extrabold text-[#FB5921] mt-1">+3400000 DA</p>
                     <span className="text-[11px] font-semibold text-emerald-600 mt-1 block">
                       ↗ +12.5% vs M-1
                     </span>
@@ -187,7 +187,7 @@ export const DashboardShowcase: React.FC = () => {
                           Analyse des Ventes en Direct
                         </span>
                         <span className="text-xs font-bold text-[#FB5921] bg-orange-50 px-2 py-0.5 rounded">
-                          Pic : 8 250 € (14:45)
+                          Pic : 800000 DA (14:45)
                         </span>
                       </div>
                       <div className="h-28 w-full">
