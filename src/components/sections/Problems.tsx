@@ -19,7 +19,7 @@ export const Problems: React.FC = () => {
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 items-stretch">
-          {/* Colonne GAUCHE : Avant MANAG'TUP */}
+          {/* Colonne GAUCHE : Avant MANAGUP */}
           <div className="bg-white rounded-2xl p-5 sm:p-7 md:p-8 border border-red-200/80 shadow-sm relative overflow-hidden flex flex-col justify-between">
             <div className="absolute top-0 right-0 w-32 h-32 bg-red-500/5 rounded-bl-full pointer-events-none"></div>
             <div>
@@ -29,7 +29,7 @@ export const Problems: React.FC = () => {
                     <MaterialIcon name="cancel" />
                   </div>
                   <div>
-                    <h3 className="font-title-md font-bold text-slate-900 text-base sm:text-lg">Avant MANAG'TUP</h3>
+                    <h3 className="font-title-md font-bold text-slate-900 text-base sm:text-lg">Avant MANAGUP</h3>
                     <p className="font-body-sm text-slate-500 text-xs">
                       La dispersion coûteuse et le stress quotidien
                     </p>
