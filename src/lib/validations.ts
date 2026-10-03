@@ -4,13 +4,13 @@ export const contactFormSchema = z.object({
   fullName: z
     .string()
     .trim()
-    .min(2, { message: 'Veuillez saisir votre nom complet (au moins 2 caractères).' })
-    .max(100, { message: 'Le nom ne peut pas dépasser 100 caractères.' }),
+    .min(2, { message: 'Veuillez saisir votre nom complet .' })
+    .max(100, { message: 'Le nom ne peut pas dépasser 20 caractères.' }),
   company: z
     .string()
     .trim()
     .min(2, { message: "Veuillez renseigner le nom de votre entreprise." })
-    .max(100, { message: "Le nom d'entreprise ne peut pas dépasser 100 caractères." }),
+    .max(100, { message: "Le nom d'entreprise ne peut pas dépasser 20 caractères." }),
   email: z
     .string()
     .trim()
@@ -20,7 +20,7 @@ export const contactFormSchema = z.object({
   phone: z
     .string()
     .trim()
-    .min(8, { message: 'Veuillez saisir un numéro de téléphone ou WhatsApp valide (au moins 8 chiffres).' })
+    .min(8, { message: 'Veuillez saisir un numéro de téléphone ou WhatsApp valide.' })
     .max(25, { message: 'Le numéro de téléphone est trop long.' }),
   monthlyOrders: z
     .string()
