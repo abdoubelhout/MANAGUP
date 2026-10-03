@@ -64,7 +64,7 @@ export const FEATURES: FeatureItem[] = [
     number: '01',
     title: 'Gestion Multi-Sources',
     description:
-      'Connecteurs natifs WhatsApp Business, Instagram DM, Shopify, WooCommerce et TPE physique. Centralisation automatique en temps réel.',
+      'Connecteurs natifs WhatsApp Business, Instagram DM, Shopify, site codée et TPE physique. Centralisation automatique en temps réel.',
     badge: 'Synchronisation instantanée',
     iconName: 'forum',
   },
@@ -109,7 +109,7 @@ export const FEATURES: FeatureItem[] = [
     number: '06',
     title: 'API Transporteurs & Suivi',
     description:
-      'Génération en un clic des étiquettes transporteurs (DHL, Chronopost, livreurs locaux). Envoi direct du numéro de suivi par WhatsApp au client.',
+      'Génération en un clic des étiquettes transporteurs (DHL, ZR express , YAalidin , Mystro ....). Envoi direct du numéro de suivi par WhatsApp au client.',
     badge: 'Tracking client automatisé',
     iconName: 'package_2',
   },
@@ -310,7 +310,7 @@ export const FAQS: FaqItem[] = [
   },
   {
     id: 'faq-2',
-    question: 'Combien de temps prend la migration depuis nos fichiers Excel actuels ?',
+    question: 'Combien de temps prend la migration depuis nos fichiers Sheet actuels ?',
     answer:
       "La migration se fait en moyenne en moins de 48 heures. Nos équipes vous fournissent des gabarits d'importation simples (produits, variantes, prix, stocks initiaux et clients) et valident l'intégrité de vos données avec vous avant la mise en production.",
   },
