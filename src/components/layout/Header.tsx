@@ -15,10 +15,10 @@ export const Header: React.FC = () => {
           <a
             className="flex items-center gap-3 active:scale-[0.98] transition-transform duration-100"
             href="#"
-            aria-label="MANAG'TUP ERP"
+            aria-label="MANAGUP ERP"
           >
             <Logo className="h-8 md:h-9 w-auto object-contain" />
-            <span className="sr-only">MANAG'TUP</span>
+            <span className="sr-only">MANAGUP</span>
           </a>
 
           {/* Centered Navigation Links */}
