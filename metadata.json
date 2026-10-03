@@ -1,5 +1,5 @@
 {
-  "name": "MANAG'TUP — ERP E-commerce Multi-canal",
+  "name": "MANAGUP — ERP E-commerce Multi-canal",
   "description": "Centralisez vos commandes WhatsApp, Shopify, stocks, achats, facturation et livraisons dans un ERP tout-en-un pensé pour les professionnels du e-commerce.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
