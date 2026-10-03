@@ -29,9 +29,7 @@ export const Hero: React.FC = () => {
               Centralisez vos commandes{' '}
               <strong className="text-slate-900 font-semibold">
                 WhatsApp, Shopify, Instagram
-              </strong>{' '}
-              et points de vente physiques. Synchronisez vos stocks en direct,
-              automatisez la facturation et éliminez 100% des erreurs d'expédition.
+              </strong>
             </p>
 
             {/* Groupe de CTAs */}
