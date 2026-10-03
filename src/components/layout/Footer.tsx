@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
           <Logo className="h-7 md:h-8 w-auto" variant="footer" />
           <span className="hidden sm:inline text-slate-300">|</span>
           <p className="text-slate-500 text-xs sm:text-sm">
-            © 2025 MANAG'TUP ERP. Tous droits réservés.
+            © 2026 MANAGUP ERP. Tous droits réservés.
           </p>
         </div>
 
