@@ -11,7 +11,7 @@ export const FinalCTA: React.FC = () => {
         </h2>
         <p className="text-base sm:text-lg text-slate-600 max-w-2xl mx-auto mb-8 leading-relaxed">
           Rejoignez les e-commerçants et distributeurs qui ont éliminé les pertes de commande et décuplé
-          leur rentabilité grâce à MANAG'TUP.
+          leur rentabilité grâce à MANAGUP.
         </p>
 
         <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-center gap-3 sm:gap-4 max-w-md sm:max-w-none mx-auto">
