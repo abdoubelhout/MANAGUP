@@ -16,7 +16,7 @@ export const FAQ: React.FC = () => {
         <SectionHeading
           badge="Foire Aux Questions"
           title="Questions fréquentes"
-          description="Tout ce que vous devez savoir pour passer sur MANAG'TUP en toute sérénité."
+          description="Tout ce que vous devez savoir pour passer sur MANAGUP en toute sérénité."
         />
 
         <div className="space-y-3 sm:space-y-4">
