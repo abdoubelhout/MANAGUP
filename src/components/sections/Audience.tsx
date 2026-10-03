@@ -10,7 +10,7 @@ export const Audience: React.FC = () => {
             Architecturé pour vos métiers
           </span>
           <h2 className="font-headline-xl text-slate-900 font-extrabold mb-3 sm:mb-4">
-            Pour qui est pensé MANAG'TUP ERP ?
+            Pour qui est pensé MANAGUP ERP ?
           </h2>
           <p className="font-body-lg text-slate-600 text-sm sm:text-base">
             Une plateforme adaptée aux défis des acteurs du commerce moderne qui refusent la lourdeur
