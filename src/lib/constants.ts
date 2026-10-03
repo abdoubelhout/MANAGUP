@@ -18,7 +18,7 @@ export const WHATSAPP_LINK = 'https://wa.me/33612345678?text=Bonjour,%20je%20sou
 
 export const NAV_LINKS = [
   { label: 'Fonctionnalités', href: '#fonctionnalites' },
-  { label: "Pourquoi MANAG'TUP", href: '#pourquoi-managtup' },
+  { label: "Pourquoi MANAGUP", href: '#pourquoi-managtup' },
   { label: 'Workflow', href: '#workflow' },
   { label: 'Démo', href: '#showcase' },
   { label: 'FAQ', href: '#faq' },
@@ -196,7 +196,7 @@ export const AUDIT_LOGS: AuditLogItem[] = [
   {
     id: 'log-1',
     time: '14:52:10',
-    title: 'Paiement 210,00 € validé (Espèces / COD)',
+    title: 'Paiement 50 000 DA validé (Espèces / COD)',
     operator: 'Opérateur : Livreur #04',
     description: 'Encaissement transféré au compte caisse de distribution centrale.',
     dotColor: 'bg-emerald-500',
@@ -269,10 +269,10 @@ export const PERSONAS: PersonaItem[] = [
 export const BENEFIT_METRICS: BenefitMetricItem[] = [
   {
     id: 'metric-1',
-    value: '+4h',
+    value: '+6h',
     title: 'Gagnées par jour',
     description:
-      'Élimination des doubles saisies et des vérifications manuelles dans WhatsApp et Excel.',
+      'Élimination des doubles saisies et des vérifications manuelles dans WhatsApp et Sheet.',
     valueColorClass: 'text-[#FB5921]',
   },
   {
@@ -306,7 +306,7 @@ export const FAQS: FaqItem[] = [
     id: 'faq-1',
     question: "Comment s'effectue la connexion avec WhatsApp Business ?",
     answer:
-      "MANAG'TUP se connecte via l'API officielle WhatsApp Cloud. Dès qu'un client passe commande ou confirme ses coordonnées par message, la commande est enregistrée dans l'ERP en 1 clic ou automatiquement par mot-clé, et le lien de suivi lui est renvoyé sans quitter la conversation.",
+      "MANAGUP se connecte via l'API officielle WhatsApp Cloud. Dès qu'un client passe commande ou confirme ses coordonnées par message, la commande est enregistrée dans l'ERP en 1 clic ou automatiquement par mot-clé, et le lien de suivi lui est renvoyé sans quitter la conversation.",
   },
   {
     id: 'faq-2',
@@ -324,6 +324,6 @@ export const FAQS: FaqItem[] = [
     id: 'faq-4',
     question: 'Est-il possible de restreindre les accès de mes employés et magasiniers ?',
     answer:
-      "Absolument. MANAG'TUP propose une gestion granulaire des rôles. Par exemple, vos préparateurs de commandes ne voient que la liste de colisage sans accès aux marges financières, et vos vendeurs en boutique n'ont pas accès aux paramètres comptables globaux.",
+      "Absolument. MANAGUP propose une gestion granulaire des rôles. Par exemple, vos préparateurs de commandes ne voient que la liste de colisage sans accès aux marges financières, et vos vendeurs en boutique n'ont pas accès aux paramètres comptables globaux.",
   },
 ];
